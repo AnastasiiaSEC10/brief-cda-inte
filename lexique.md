@@ -13,6 +13,32 @@
 
 ## [A-B-C]
 
+### [A]
+
+Accompagnement : Se joindre au parcours de quelqu'un pour l'aider à atteindre sa destination.
+
+Alumni : Ancien élève d'un établissement.
+
+Autonomisation : Fait de rendre capable de se gérer seul.
+
+### [B]
+
+Bénévole :
+
+Binome :
+
+### [C]
+
+Clarté :
+
+Coaching :
+
+Communication : 
+
+Compétence :
+
+Contexte :
+
 ## [D-E-F]
 
 ## [G-H-I]
