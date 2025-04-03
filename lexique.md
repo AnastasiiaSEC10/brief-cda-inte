@@ -23,9 +23,9 @@ Autonomisation : Fait de rendre capable de se gérer seul.
 
 ### [B]
 
-Bénévole :
+Bénévole : Personne faisant une action sans obligation ni demande de rémunération.
 
-Binome :
+Binome : Ensemble de 2 éléments.
 
 ### [C]
 
@@ -33,7 +33,7 @@ Clarté :
 
 Coaching :
 
-Communication : 
+Communication :
 
 Compétence :
 
