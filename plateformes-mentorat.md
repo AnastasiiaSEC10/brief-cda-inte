@@ -27,12 +27,12 @@
 
 - **ADP Mentor** : Programme de mentorat gratuit destiné aux personnes en reconversion ou en début de carrière dans la tech.
 
-  - Principalement destiné aux autodidactes, étudiants ou personnes en reconversion
-  - Les mentors sont des professionnels expérimentés qui donnent de leur temps bénévolement
-  - Accompagnement sur plusieurs mois pour travailler sur des projets concrets et progresser techniquement
+  - Principalement destiné aux autodidactes, étudiants ou personnes en reconversion.
+  - Les mentors sont des professionnels expérimentés qui donnent de leur temps bénévolement.
+  - Accompagnement sur plusieurs mois pour travailler sur des projets concrets et progresser techniquement.
   - Focus sur le développement web, data, cloud et d'autres domaines tech.
   - Processus de candidature pour être mentoré, avec des critères de sélection.
-  - Plateforme 100% en ligne, avec mentorat en visio ou via messagerie
+  - Plateforme 100% en ligne, avec mentorat en visio ou via messagerie.
 
 ## Communauté & Discord
 
