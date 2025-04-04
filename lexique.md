@@ -13,11 +13,63 @@
 
 ## [A-B-C]
 
+### [A]
+
+**Accompagnement** : Se joindre au parcours de quelqu'un pour l'aider à atteindre sa destination.
+
+**Alumni** : Ancien élève d'un établissement.
+
+**Autonomisation** : Fait de rendre capable de se gérer seul.
+
+### [B]
+
+**Bénévole** : Personne faisant une action sans obligation ni demande de rémunération.
+
+**Binôme** : Ensemble de 2 personnes.
+
+### [C]
+
+**Clarté** : Quelque chose de clair, sans ambiguïté et facile à comprendre.
+
+**Coaching** : Accompagnement (d'une équipe ou personne) dans l'accomplissement et la réussite de ses projets.
+
+**Communication** : Action de transmettre quelque chose à quelqu'un.
+
+**Compétence** : Capacité de quelqu'un à accomplir une tâche.
+
+**Contexte** : Ensemble de circonstances permettant de situer un événement.
+
 ## [D-E-F]
+
+### [D]
+
+### [E]
+
+**Encouragement** : Action de donner de l'espoir, un soutien.
+
+**Engagement** : Contrat oral ou écrit entre 2 personnes.
+
+### [F]
 
 ## [G-H-I]
 
+### [G]
+
+### [H]
+
+### [I]
+
+**Indépendant** : Qui est en mesure de subvenir entièrement à ses propres besoins.
+
+**Information** : Ensemble des activités qui ont pour objet la collecte, le traitement et la diffusion des nouvelles auprès du public.
+
 ## [J-K-L]
+
+### [J]
+
+### [K]
+
+### [L]
 
 ## [M-N-O-P]
 
