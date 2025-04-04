@@ -29,15 +29,15 @@ Binome : Ensemble de 2 éléments.
 
 ### [C]
 
-Clarté :
+Clarté : Quelque chose de clair, sans ambiguité et facile à comprendre.
 
-Coaching :
+Coaching : Accompagnement (d'une équipe ou personne) dans l'accomplissement et la réussite de ses projets
 
-Communication :
+Communication : Action de transmettre quelque chose à quelqu'un.
 
-Compétence :
+Compétence : Capacité de quelqu'un à accomplir une tache
 
-Contexte :
+Contexte : Ensemble de circonstance permettant de situer un événement.
 
 ## [D-E-F]
 
