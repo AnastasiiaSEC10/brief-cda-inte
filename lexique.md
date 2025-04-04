@@ -15,29 +15,29 @@
 
 ### [A]
 
-Accompagnement : Se joindre au parcours de quelqu'un pour l'aider à atteindre sa destination.
+**Accompagnement** : Se joindre au parcours de quelqu'un pour l'aider à atteindre sa destination.
 
-Alumni : Ancien élève d'un établissement.
+**Alumni** : Ancien élève d'un établissement.
 
-Autonomisation : Fait de rendre capable de se gérer seul.
+**Autonomisation** : Fait de rendre capable de se gérer seul.
 
 ### [B]
 
-Bénévole : Personne faisant une action sans obligation ni demande de rémunération.
+**Bénévole** : Personne faisant une action sans obligation ni demande de rémunération.
 
-Binome : Ensemble de 2 éléments.
+**Binôme** : Ensemble de 2 personnes.
 
 ### [C]
 
-Clarté : Quelque chose de clair, sans ambiguité et facile à comprendre.
+**Clarté** : Quelque chose de clair, sans ambiguïté et facile à comprendre.
 
-Coaching : Accompagnement (d'une équipe ou personne) dans l'accomplissement et la réussite de ses projets
+**Coaching** : Accompagnement (d'une équipe ou personne) dans l'accomplissement et la réussite de ses projets.
 
-Communication : Action de transmettre quelque chose à quelqu'un.
+**Communication** : Action de transmettre quelque chose à quelqu'un.
 
-Compétence : Capacité de quelqu'un à accomplir une tache
+**Compétence** : Capacité de quelqu'un à accomplir une tâche.
 
-Contexte : Ensemble de circonstance permettant de situer un événement.
+**Contexte** : Ensemble de circonstances permettant de situer un événement.
 
 ## [D-E-F]
 
@@ -45,9 +45,9 @@ Contexte : Ensemble de circonstance permettant de situer un événement.
 
 ### [E]
 
-Encouragement : Action de donner de l'espoir, un soutien.
+**Encouragement** : Action de donner de l'espoir, un soutien.
 
-Engagement : Contrat oral ou écrit entre 2 personnes.
+**Engagement** : Contrat oral ou écrit entre 2 personnes.
 
 ### [F]
 
@@ -59,9 +59,9 @@ Engagement : Contrat oral ou écrit entre 2 personnes.
 
 ### [I]
 
-Indépendant: Qui est en mesure de subvenir entièrement à ses propres besoins.
+**Indépendant** : Qui est en mesure de subvenir entièrement à ses propres besoins.
 
-Information : Ensemble des activités qui ont pour objet la collecte, le traitement et la diffusion des nouvelles auprès du public.
+**Information** : Ensemble des activités qui ont pour objet la collecte, le traitement et la diffusion des nouvelles auprès du public.
 
 ## [J-K-L]
 
