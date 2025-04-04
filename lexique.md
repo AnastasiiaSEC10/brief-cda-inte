@@ -21,7 +21,23 @@
 
 ## [M-N-O-P]
 
+### [M]
+
+
+
 ## [Q-R-S]
+
+### [R]
+
+Réseautage : C'est le fait de développer et entretenir un réseau de contacts professionnels ou personnels pour échanger des idées, des opportunités (emplois, projets, conseils) et s'entraider mutuellement.
+
+Retour d'information honnête : C'est donner des commentaires utiles et véritables sur le travail ou le comportement de quelqu'un, en parlant aussi bien des points forts que des points à améliorer.
+
+### [S]
+
+Soutien : C'est l'aide, des conseils et des encouragements fournis par un mentor à son mentoré. 
+
+Supervision : C'est une interaction guidée, où le mentor joue un rôle clé en partageant son expertise, en créant un cadre de confiance, et en aidant le mentoré à évoluer.
 
 ## [T-U-V]
 
