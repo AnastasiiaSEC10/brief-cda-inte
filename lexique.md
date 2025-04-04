@@ -59,6 +59,10 @@ Engagement : Contrat oral ou écrit entre 2 personnes.
 
 ### [I]
 
+Indépendant: Qui est en mesure de subvenir entièrement à ses propres besoins.
+
+Information : Ensemble des activités qui ont pour objet la collecte, le traitement et la diffusion des nouvelles auprès du public.
+
 ## [J-K-L]
 
 ### [J]
