@@ -41,9 +41,31 @@ Contexte : Ensemble de circonstance permettant de situer un événement.
 
 ## [D-E-F]
 
+### [D]
+
+### [E]
+
+Encouragement : Action de donner de l'espoir, un soutien.
+
+Engagement : Contrat oral ou écrit entre 2 personnes.
+
+### [F]
+
 ## [G-H-I]
 
+### [G]
+
+### [H]
+
+### [I]
+
 ## [J-K-L]
+
+### [J]
+
+### [K]
+
+### [L]
 
 ## [M-N-O-P]
 
